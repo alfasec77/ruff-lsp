@@ -109,9 +109,9 @@ pytest-asyncio==0.21.2 \
     --hash=sha256:ab664c88bb7998f711d8039cacd4884da6430886ae8bbd4eded552ed2004f16b \
     --hash=sha256:d67738fc232b94b326b9d060750beb16e0074210b98dd8b58a5239fa2a154f45
     # via ruff-lsp (pyproject.toml)
-python-lsp-jsonrpc==1.0.0 \
-    --hash=sha256:079b143be64b0a378bdb21dff5e28a8c1393fe7e8a654ef068322d754e545fc7 \
-    --hash=sha256:7bec170733db628d3506ea3a5288ff76aa33c70215ed223abdb0d95e957660bd
+python-lsp-jsonrpc==1.1.2 \
+    --hash=sha256:4688e453eef55cd952bff762c705cedefa12055c0aec17a06f595bcc002cc912 \
+    --hash=sha256:7339c2e9630ae98903fdaea1ace8c47fba0484983794d6aafd0bd8989be2b03c
     # via ruff-lsp (pyproject.toml)
 ruff==0.12.8 \
     --hash=sha256:0ac9c570634b98c71c88cb17badd90f13fc076a472ba6ef1d113d8ed3df109fb \
