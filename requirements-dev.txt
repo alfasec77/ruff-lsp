@@ -83,9 +83,9 @@ packaging==25.0 \
     #   build
     #   pytest
     #   ruff-lsp (pyproject.toml)
-pip-tools==6.14.0 \
-    --hash=sha256:06366be0e08d86b416407333e998b4d305d5bd925151b08942ed149380ba3e47 \
-    --hash=sha256:c5ad042cd27c0b343b10db1db7f77a7d087beafbec59ae6df1bba4d3368dfe8c
+pip-tools==7.5.1 \
+    --hash=sha256:a051a94794ba52df9acad2d7c9b0b09ae001617db458a543f8287fea7b89c2cf \
+    --hash=sha256:f5ff803823529edc0e6e40c86b1aa7da7266fb1078093c8beea4e5b77877036a
     # via ruff-lsp (pyproject.toml)
 pluggy==1.5.0 \
     --hash=sha256:2cffa88e94fdc978c4c574f15f9e59b7f4201d439195c3715ca9e2486f1d0cf1 \
